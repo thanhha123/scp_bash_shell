@@ -2,7 +2,7 @@
 
 Tải file scp.sh và config.cfg về
 
-Chỉnh sửa thông tin username, password, file trong file config.cfg
+Chỉnh sửa thông tin máy đích (gồm username, password, địa chỉ ip), file cần đẩy trong config.cfg
 
 Chạy file
 
